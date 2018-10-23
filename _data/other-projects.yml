@@ -1,13 +1,10 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Surf Videos1
+  description: 1Small React project created during an interview process to browse and search surf videos via the YouTube API.
   used:
-    - thing: JavaScript
+    - thing: JavaScript1
     - thing: React
     - thing: React Router
     - thing: Axios
-    - thing: YouTube API
 
 - name: Halcyon Theme
   url: https://brittanychiang.com/halcyon-site/
