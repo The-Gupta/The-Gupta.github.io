@@ -14,6 +14,10 @@ social:
     url: https://github.com/The-Gupta
   - title: linkedin
     url: https://www.linkedin.com/in/thegupta/
+  - title: analytics vidhya
+    url: https://datahack.analyticsvidhya.com/user/profile/TheGupta/
+  - title: angel.co
+    url: http://angel.co/thegupta/
 
 # Build settings
 markdown: kramdown
