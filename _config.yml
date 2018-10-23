@@ -18,6 +18,16 @@ social:
     url: https://datahack.analyticsvidhya.com/user/profile/TheGupta/
   - title: angel.co
     url: http://angel.co/thegupta/
+  - title: Stack Overflow
+    url: https://stackoverflow.com/users/8321339/vishal-gupta/
+  - title: Quora
+    url: https://www.quora.com/profile/Vishal-Gupta-50/
+  - title: Medium
+    url: https://medium.com/@vishal.gupta_49292/
+  - title: Twitter
+    url: https://twitter.com/vishalbuck/
+  - title: Facebook
+    url: http://facebook.com/yoyobuck/
 
 # Build settings
 markdown: kramdown
