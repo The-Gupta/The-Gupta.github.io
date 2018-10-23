@@ -16,6 +16,8 @@ social:
     url: https://www.linkedin.com/in/thegupta/
   - title: analytics vidhya
     url: https://datahack.analyticsvidhya.com/user/profile/TheGupta/
+  - title: HackerRank
+    url: https://www.hackerrank.com/TheGupta
   - title: angel.co
     url: http://angel.co/thegupta/
   - title: Stack Overflow
@@ -28,8 +30,6 @@ social:
     url: https://twitter.com/vishalbuck/
   - title: Facebook
     url: http://facebook.com/yoyobuck/
-  - title: HackerRank
-    url: https://www.hackerrank.com/TheGupta
     
 # Build settings
 markdown: kramdown
