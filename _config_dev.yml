@@ -1,13 +1,12 @@
 # Site settings
 name: Vishal Gupta
 title: Vishal Gupta | Artificial Intelligence Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+description: :)
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://github.com/The-Gupta/The-Gupta.github.io/blob/master/img/headshot.jpg
+email: vishal.gupta@nitdelhi.ac.in
+cover: https://github.com/The-Gupta/The-Gupta.github.io/blob/master/myPhoto.jpg
 logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://github.com/The-Gupta/The-Gupta.github.io/blob/master/resume.pdf
+resume: https://github.com/The-Gupta/The-Gupta.github.io/blob/master/myProfile.pdf
 social:
   - title: email
     url: mailto:vishal.gupta@nitdelhi.ac.in
