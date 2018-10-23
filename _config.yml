@@ -28,7 +28,9 @@ social:
     url: https://twitter.com/vishalbuck/
   - title: Facebook
     url: http://facebook.com/yoyobuck/
-
+  - title: HackerRank
+    url: https://www.hackerrank.com/TheGupta
+    
 # Build settings
 markdown: kramdown
 
